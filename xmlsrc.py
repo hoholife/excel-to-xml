@@ -1,5 +1,8 @@
+
 class xmlsrc:
+
     confile = ""
+    
     KEY="key"
     ATTR="attr"
     ELEM="elem"
